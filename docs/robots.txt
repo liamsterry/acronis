@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+ 
+Sitemap: https://acronis-login.readthedocs.io/sitemap.xml
